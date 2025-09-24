@@ -17,3 +17,11 @@ The model is designed to classify video frames or image sequences into different
 - Healthcare and rehabilitation monitoring  
 
 ---
+## 📂 Dataset
+
+The dataset used in this project is available on Google Drive:  
+👉 [Download Dataset](https://drive.google.com/drive/folders/1oZ-knL-EclVLM5OPZOGlAeHBwDNUEzL3?usp=sharing)
+
+### Setup Instructions
+1. Download the dataset from the above link.  
+2. Extract the contents into a folder named `dataset/` in the root directory of this repository.  
